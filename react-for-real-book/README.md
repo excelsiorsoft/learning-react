@@ -1,0 +1,1 @@
+This houses files backing the [React for Real](http://www.pragmaticprogrammer.com/titles/lfreact ) book from Pragmatic Publishing
